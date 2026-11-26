@@ -1,0 +1,393 @@
+County,Station_Name,Observation_ID,Latitude,Longitude
+aberdeenshire,"Bogie, Redcraig",aberdeenshire__bogie-redcraig__obs1,57.42475756,-2.802015318
+aberdeenshire,"Dee (Grampian), Park",aberdeenshire__dee-grampian-park__obs1,57.075424,-2.335825098
+aberdeenshire,"Dee (Grampian), Polhollick",aberdeenshire__dee-grampian-polhollick__obs1,57.05514629,-3.083180673
+aberdeenshire,"Dee (Grampian), Woodend",aberdeenshire__dee-grampian-woodend__obs1,57.0501291,-2.603567118
+aberdeenshire,"Dee (Grampian), Mar Lodge",aberdeenshire__dee-grampian-mar-lodge__obs1,56.98804049,-3.486197825
+aberdeenshire,"Deveron, Avochie",aberdeenshire__deveron-avochie__obs1,57.50564634,-2.782377895
+aberdeenshire,"Deveron, Huntly GS",aberdeenshire__deveron-huntly-gs__obs1,57.45498575,-2.807560217
+aberdeenshire,"Don, Haughton",aberdeenshire__don-haughton__obs1,57.27134676,-2.404963889
+aberdeenshire,"Don, Alford",aberdeenshire__don-alford__obs1,57.24230294,-2.717123004
+aberdeenshire,"Don, Parkhill",aberdeenshire__don-parkhill__obs1,57.21832146,-2.187586406
+aberdeenshire,"Don, Culfork",aberdeenshire__don-culfork__obs1,57.18022427,-3.11016313
+aberdeenshire,"Gairn, Invergairn",aberdeenshire__gairn-invergairn__obs1,57.05992614,-3.069535364
+aberdeenshire,"Keithfield Burn, Mill of Keithfield",aberdeenshire__keithfield-burn-mill-of-keithfield__obs1,57.39549598,-2.268170959
+aberdeenshire,"Loch Kinord, Meikle Kinord",aberdeenshire__loch-kinord-meikle-kinord__obs1,57.07826247,-2.921345756
+aberdeenshire,"Muick, Invermuick",aberdeenshire__muick-invermuick__obs1,57.03951544,-3.049304978
+aberdeenshire,"Ugie, Inverugie",aberdeenshire__ugie-inverugie__obs1,57.52669115,-1.832792272
+aberdeenshire,"Urie, Pitcaple",aberdeenshire__urie-pitcaple__obs1,57.32351879,-2.464869508
+aberdeenshire,"Ythan, Ellon",aberdeenshire__ythan-ellon__obs1,57.36377128,-2.090017282
+angus,"Brothock Water, Arbroath",angus__brothock-water-arbroath__obs1,56.56723031,-2.588171626
+angus,"Colliston Burn, Colliston",angus__colliston-burn-colliston__obs1,56.61000991,-2.637841019
+angus,"Elliot Water, Kelly Den - Arbilot",angus__elliot-water-kelly-den-arbilot__obs1,56.55248062,-2.640451372
+angus,"Isla (Tayside), Forter",angus__isla-tayside-forter__obs1,56.76674681,-3.332205729
+angus,"Isla (Tayside), Wester Cardean",angus__isla-tayside-wester-cardean__obs1,56.60590455,-3.151232647
+angus,"Lunan Water, Murton",angus__lunan-water-murton__obs1,56.65077608,-2.823539396
+angus,"Lunan Water, Guthrie",angus__lunan-water-guthrie__obs1,56.64274771,-2.706028939
+angus,"Lunan Water, Kirkton Mill",angus__lunan-water-kirkton-mill__obs1,56.63544717,-2.564584008
+angus,"North Esk (Tayside), Waterside Perth",angus__north-esk-tayside-waterside-perth__obs1,56.89929851,-2.820760629
+angus,"Prosen Water, Prosen Bridge",angus__prosen-water-prosen-bridge__obs1,56.71469976,-2.988763564
+angus,"South Esk (Angus), Gella Bridge",angus__south-esk-angus-gella-bridge__obs1,56.77535832,-3.027929218
+angus,"South Esk (Angus), Brechin",angus__south-esk-angus-brechin__obs1,56.72692276,-2.655900389
+angus,"South Esk (Angus), Tannadice",angus__south-esk-angus-tannadice__obs1,56.7088965,-2.857771833
+angus,"Water of Mark, Invermark",angus__water-of-mark-invermark__obs1,56.91121364,-2.914811966
+angus,"West Water, Dalhousie Bridge",angus__west-water-dalhousie-bridge__obs1,56.8021744,-2.67047775
+argyll-and-bute,Tobermory,argyll-and-bute__tobermory-argyll-and-bute__obs1,56.62314,-6.06424
+argyll-and-bute,Tobermory,argyll-and-bute__tobermory-argyll-and-bute-tidal-level__obs2,56.62314,-6.06424
+argyll-and-bute,Portrush,argyll-and-bute__portrush-argyll-and-bute__obs1,55.20108,-6.65123
+argyll-and-bute,Portrush,argyll-and-bute__portrush-argyll-and-bute-tidal-level__obs2,55.20108,-6.65123
+argyll-and-bute,"Abhainn a Bhealaich, Braevallich",argyll-and-bute__abhainn-a-bhealaich-braevallich__obs1,56.21639554,-5.296246434
+argyll-and-bute,"Avich, Barnaline Lodge",argyll-and-bute__avich-barnaline-lodge__obs1,56.27473893,-5.278048706
+argyll-and-bute,"Carradale Water, Dippen",argyll-and-bute__carradale-water-dippen__obs1,55.58274848,-5.496523588
+argyll-and-bute,"Eas Daimh, Eas Daimh",argyll-and-bute__eas-daimh-eas-daimh__obs1,56.40771881,-4.855886468
+argyll-and-bute,"Linne nam Beathach, Victoria Bridge",argyll-and-bute__linne-nam-beathach-victoria-bridge__obs1,56.53983375,-4.813560642
+argyll-and-bute,"Lochy (Argyll), Inverlochy",argyll-and-bute__lochy-argyll-inverlochy__obs1,56.40496092,-4.923669812
+argyll-and-bute,"Orchy, Glen Orchy",argyll-and-bute__orchy-glen-orchy__obs1,56.44657591,-4.852749436
+argyll-and-bute,"Strae, Glen Strae",argyll-and-bute__strae-glen-strae__obs1,56.42522107,-5.000795867
+ayrshire-and-arran,Millport,ayrshire-and-arran__millport-ayrshire-and-arran__obs1,55.7498,-4.90634
+ayrshire-and-arran,Millport,ayrshire-and-arran__millport-ayrshire-and-arran-tidal-level__obs2,55.7498,-4.90634
+ayrshire-and-arran,"Annick Water, Chapeltoun Gauging Station",ayrshire-and-arran__annick-water__obs1,55.6639264,-4.554890682
+ayrshire-and-arran,"Annick Water, Cunninghamhead",ayrshire-and-arran__annick-water-cunninghamhead__obs1,55.64794589,-4.584018331
+ayrshire-and-arran,"Annick Water, Dreghorn",ayrshire-and-arran__annick-water-dreghorn__obs1,55.61141199,-4.619377401
+ayrshire-and-arran,"Ayr, Limmerhaugh",ayrshire-and-arran__ayr-limmerhaugh__obs1,55.51674252,-4.189197017
+ayrshire-and-arran,"Ayr, Wellwood",ayrshire-and-arran__ayr-wellwood__obs1,55.5109582,-4.123670365
+ayrshire-and-arran,"Ayr, Catrine",ayrshire-and-arran__ayr-catrine__obs1,55.50462561,-4.336590474
+ayrshire-and-arran,"Ayr, Mainholm",ayrshire-and-arran__ayr-mainholm__obs1,55.46104476,-4.592546164
+ayrshire-and-arran,"Cessnock Water, Hoodston Bridge",ayrshire-and-arran__cessnock-water-hoodston-bridge__obs1,55.60122684,-4.428249956
+ayrshire-and-arran,"Doon, Auchendrane",ayrshire-and-arran__doon-auchendrane__obs1,55.40997977,-4.627054661
+ayrshire-and-arran,"Garnock, Kilbirnie",ayrshire-and-arran__garnock-kilbirnie__obs1,55.75642821,-4.685378197
+ayrshire-and-arran,"Garnock, Dalry",ayrshire-and-arran__garnock-dalry__obs1,55.70198453,-4.716787117
+ayrshire-and-arran,"Garnock, Kilwinning",ayrshire-and-arran__garnock-kilwinning__obs1,55.64563956,-4.692060096
+ayrshire-and-arran,"Irvine, Irvine Waterside",ayrshire-and-arran__irvine-irvine-waterside__obs1,55.61682305,-4.674740715
+ayrshire-and-arran,"Irvine, Newmilns",ayrshire-and-arran__irvine-newmilns__obs1,55.60610732,-4.331033075
+ayrshire-and-arran,"Irvine, Glenfield",ayrshire-and-arran__irvine-glenfield__obs1,55.60118281,-4.493559809
+ayrshire-and-arran,"Irvine, Shewalton",ayrshire-and-arran__irvine-shewalton__obs1,55.59709275,-4.627788758
+ayrshire-and-arran,"Kilmarnock Water, Howard Park",ayrshire-and-arran__kilmarnock-water-howard-park__obs1,55.60465827,-4.499004047
+ayrshire-and-arran,"Lugar Water, Langholm A",ayrshire-and-arran__lugar-water-langholm-a__obs1,55.46679973,-4.362070221
+ayrshire-and-arran,"Lugton Water, Eglinton Castle",ayrshire-and-arran__lugton-water-eglinton-castle__obs1,55.64280886,-4.677656958
+ayrshire-and-arran,"Machrie Water, Monyquil Farm",ayrshire-and-arran__machrie-water-monyquil-farm__obs1,55.56419458,-5.271931931
+ayrshire-and-arran,"Nith, Dalgig",ayrshire-and-arran__nith-dalgig__obs1,55.38782272,-4.277163013
+ayrshire-and-arran,"Stinchar, Balnowlart",ayrshire-and-arran__stinchar-balnowlart__obs1,55.10717871,-4.968322113
+ayrshire-and-arran,"Water of Girvan, Robstone",ayrshire-and-arran__water-of-girvan-robstone__obs1,55.25880544,-4.807721027
+banffshire,"Allt Deveron, Cabrach",banffshire__allt-deveron-cabrach__obs1,57.34816,-3.034565786
+banffshire,"Avon (Spey), Delnashaugh",banffshire__avon-spey-delnashaugh__obs1,57.39970792,-3.357845061
+banffshire,"Burn of Deskford, Cullen",banffshire__burn-of-deskford-cullen__obs1,57.68712295,-2.83323079
+banffshire,"Deveron, Muiresk",banffshire__deveron-muiresk__obs1,57.53766592,-2.493533301
+banffshire,"Isla (Deveron), Grange",banffshire__isla-deveron-grange__obs1,57.54279921,-2.847774986
+banffshire,"Livet, Minmore",banffshire__livet-minmore__obs1,57.34451357,-3.328222906
+banffshire,"Spey, Boat o' Brig",banffshire__spey-boat-o-brig__obs1,57.55104115,-3.140387991
+banffshire,"Spey, Aberlour",banffshire__spey-aberlour__obs1,57.48021805,-3.205975095
+berwickshire,"Back Burn (Borders), Ladyflat Farm",berwickshire__back-burn-borders-ladyflat-farm__obs1,55.75636712,-2.369501202
+berwickshire,"Blackadder Water, Mouthbridge",berwickshire__blackadder-water-mouthbridge__obs1,55.77012815,-2.279193263
+berwickshire,"Eye Water, Grantshouse",berwickshire__eye-water-grantshouse__obs1,55.88238352,-2.292035856
+berwickshire,"Eye Water, Eyemouth Mill",berwickshire__eye-water-eyemouth-mill__obs1,55.8651192,-2.095026904
+berwickshire,"Leet Water, Coldstream",berwickshire__leet-water-coldstream__obs1,55.64977661,-2.256597919
+berwickshire,"Whiteadder Water, Abbey St Bathans",berwickshire__whiteadder-water-abbey-st-bathans__obs1,55.85329633,-2.387448356
+berwickshire,"Whiteadder Water, Hutton Castle",berwickshire__whiteadder-water-hutton-castle__obs1,55.7889,-2.1917
+caithness,Wick,caithness__wick-caithness__obs1,58.44098,-3.08631
+caithness,Wick,caithness__wick-caithness-tidal-level__obs2,58.44098,-3.08631
+caithness,"Thurso, Halkirk",caithness__thurso-halkirk__obs1,58.5154974,-3.493004244
+caithness,"Wick, Tarroul",caithness__wick-tarroul__obs1,58.47619579,-3.267060495
+city-of-aberdeen,Aberdeen,city-of-aberdeen__aberdeen-city-of-aberdeen-tidal-level__obs1,57.14406,-2.08013
+city-of-aberdeen,Aberdeen,city-of-aberdeen__aberdeen-city-of-aberdeen__obs2,57.14406,-2.08013
+city-of-aberdeen,"Dee (Grampian), Garthdee",city-of-aberdeen__dee-grampian-garthdee__obs1,57.11882365,-2.124396574
+city-of-dundee,"Dighty Water, Balmossie",city-of-dundee__dighty-water-balmossie__obs1,56.48175497,-2.85166534
+city-of-edinburgh,Leith,city-of-edinburgh__leith-city-of-edinburgh__obs1,55.98983,-3.18168
+city-of-edinburgh,Leith,city-of-edinburgh__leith-city-of-edinburgh-tidal-level__obs2,55.98983,-3.18168
+city-of-edinburgh,"Almond (Lothian), Craigiehall",city-of-edinburgh__almond-lothian-craigiehall__obs1,55.96313343,-3.338532726
+city-of-edinburgh,"Braid Burn, Liberton",city-of-edinburgh__braid-burn-liberton__obs1,55.92458009,-3.165787507
+city-of-edinburgh,"Brox Burn (East Lothian), Newliston",city-of-edinburgh__brox-burn-east-lothian-newliston__obs1,55.9429625,-3.420216359
+city-of-edinburgh,"Gogar Burn, Turnhouse",city-of-edinburgh__gogar-burn-turnhouse__obs1,55.94528452,-3.345442654
+city-of-edinburgh,"Murray Burn, Murray Burn",city-of-edinburgh__murray-burn-murray-burn__obs1,55.91287677,-3.317681386
+city-of-edinburgh,"Water of Leith, Murrayfield",city-of-edinburgh__water-of-leith-murrayfield__obs1,55.94563152,-3.237786767
+city-of-edinburgh,"Water of Leith, Colinton",city-of-edinburgh__water-of-leith-colinton__obs1,55.90575791,-3.262141625
+city-of-glasgow,"White Cart Water, Overlee",city-of-glasgow__white-cart-water-overlee__obs1,55.78987786,-4.266853356
+clackmannan,"Devon, Sterling Mills Gauging Station",clackmannan__devon-sterling-mills-gauging-station__obs1,56.14812902,-3.738809826
+clackmannan,"Devon, Glenochil",clackmannan__devon-glenochil__obs1,56.14364525,-3.839304837
+dumfries,"Annan, Meikleholm Bridge",dumfries__annan-meikleholm-bridge__obs1,55.36209214,-3.462380402
+dumfries,"Annan, Woodfoot",dumfries__annan-woodfoot__obs1,55.29395422,-3.41903487
+dumfries,"Annan, Brydekirk",dumfries__annan-brydekirk__obs1,55.02165102,-3.267726412
+dumfries,"Cluden Water, Fiddlers Ford",dumfries__cluden-water-fiddlers-ford__obs1,55.09849668,-3.680572053
+dumfries,"Esk (Solway), Langholm Bridge",dumfries__esk-solway-langholm-bridge__obs1,55.1521906,-3.000489189
+dumfries,"Esk (Solway), Canonbie",dumfries__esk-solway-canonbie__obs1,55.0662645,-2.946231369
+dumfries,"Evan Water, Beattock",dumfries__evan-water__obs1,55.31167269,-3.456710814
+dumfries,"Ewes Water, Unthank Bridge",dumfries__ewes-water-unthank-bridge__obs1,55.24336243,-2.967499315
+dumfries,"Kinnel Water, Redhall",dumfries__kinnel-water-redhall__obs1,55.16743102,-3.450205295
+dumfries,"Kinnel Water, Bridgemuir",dumfries__kinnel-water-bridgemuir__obs1,55.14632871,-3.428225271
+dumfries,"Kirtle Water, Mossknowe",dumfries__kirtle-water-mossknowe__obs1,55.01280562,-3.119586538
+dumfries,"Liddel Water, Rowanburnfoot",dumfries__liddel-water-rowanburnfoot__obs1,55.07463868,-2.918221754
+dumfries,"Nith, Hall Bridge",dumfries__nith-hall-bridge__obs1,55.39297897,-4.079109518
+dumfries,"Nith, Drumlanrig",dumfries__nith-drumlanrig__obs1,55.27462204,-3.799524299
+dumfries,"Nith, Friars Carse",dumfries__nith-friars-carse__obs1,55.14868484,-3.690747738
+dumfries,"Nith, Greensands",dumfries__nith-greensands__obs1,55.06942626,-3.617944341
+dumfries,"Nith, Whitesands",dumfries__nith-whitesands__obs1,55.06536955,-3.610749368
+dumfries,"River Esk, Canonbie (SEPA Site)",dumfries__esk-border-dumfries-and-galloway-canonbie__obs1,55.066848,-2.946363
+dumfries,"Scar Water, Capenoch",dumfries__scar-water-capenoch__obs1,55.22736754,-3.817044727
+dumfries,"White Esk, Castle O'er",dumfries__white-esk-castle-oer__obs1,55.22290808,-3.180030664
+dunbartonshire,"Aber Burn, Lagganbeg",dunbartonshire__aber-burn-lagganbeg__obs1,56.05128388,-4.52729393
+dunbartonshire,"Allander Water, Milngavie",dunbartonshire__allander-water-milngavie__obs1,55.93341456,-4.309062631
+dunbartonshire,"Bothlin Burn, Auchengeich",dunbartonshire__bothlin-burn-auchengeich__obs1,55.91939055,-4.114140851
+dunbartonshire,"Glazert Water, Lennox Castle",dunbartonshire__glazert-water-lennox-castle__obs1,55.98029455,-4.220982816
+dunbartonshire,"Glazert Water, Milton of Campsie",dunbartonshire__glazert-water-milton-of-campsie__obs1,55.95994689,-4.153697207
+dunbartonshire,"Kelvin, Bridgend",dunbartonshire__kelvin-bridgend__obs1,55.94910632,-4.129006198
+dunbartonshire,"Kelvin, Dryfield",dunbartonshire__kelvin-dryfield__obs1,55.93891825,-4.182216743
+dunbartonshire,"Kelvin, Killermont",dunbartonshire__kelvin-killermont__obs1,55.90623638,-4.307622592
+dunbartonshire,"Leven (Loch Lomond), Linnbrane",dunbartonshire__leven-loch-lomond-linnbrane__obs1,55.98877125,-4.57598193
+dunbartonshire,"Loch Lomond, Ross Priory",dunbartonshire__loch-lomond-ross-priory__obs1,56.05257642,-4.55746111
+dunbartonshire,"Luggie Water, Oxgang",dunbartonshire__luggie-water-oxgang__obs1,55.9354055,-4.13808503
+dunbartonshire,"Luss Water, Luss",dunbartonshire__luss-water-luss__obs1,56.10033657,-4.644123033
+east-lothian,"Brox Burn (East Lothian), Broxmouth",east-lothian__brox-burn-east-lothian-broxmouth__obs1,55.99077195,-2.48676507
+east-lothian,"Cogtail Burn, Athelstaneford",east-lothian__cogtail-burn-athelstaneford__obs1,55.9852479,-2.736326688
+east-lothian,"Esk (Lothian), Musselburgh",east-lothian__esk-lothian-musselburgh__obs1,55.93950941,-3.060909073
+east-lothian,"Gifford Water, Lennoxlove",east-lothian__gifford-water-lennoxlove__obs1,55.93584934,-2.784195821
+east-lothian,"Peffer Burn (West), Luffness",east-lothian__peffer-burn-west-luffness__obs1,56.02022484,-2.821888561
+east-lothian,"Tyne, East Linton",east-lothian__tyne-east-linton__obs1,55.98249658,-2.657198972
+east-lothian,"Tyne, Nungate",east-lothian__tyne-nungate__obs1,55.95402395,-2.771735305
+east-lothian,"Tyne, Spilmersford",east-lothian__tyne-spilmersford__obs1,55.9100322,-2.871497598
+fife,"Eden (Fife), Kemback",fife__eden-fife-kemback__obs1,56.3309034,-2.948442952
+fife,"Eden (Fife), Strathmiglo",fife__eden-fife-strathmiglo__obs1,56.27758355,-3.253078016
+fife,"Motray Water, St Michaels",fife__motray-water-st-michaels__obs1,56.3903691,-2.908114188
+fife,"Ore, Balfour Mains",fife__ore-balfour-mains__obs1,56.1847332,-3.08157055
+inverness,"Aline, Craigendarroch",inverness__aline-craigendarroch__obs1,56.56990238,-5.749845756
+inverness,"Allt Coire nan Con, Polloch",inverness__allt-coire-nan-con-polloch__obs1,56.75844885,-5.613663683
+inverness,"Beauly, Red Bridge",inverness__beauly-red-bridge__obs1,57.45461034,-4.494575811
+inverness,"Beauly, Erchless",inverness__beauly-erchless__obs1,57.42804453,-4.623845183
+inverness,"Coilte, Ivy Bridge",inverness__coilte-ivy-bridge__obs1,57.31837309,-4.497591991
+inverness,"Dulnain, Balnaan",inverness__dulnain-balnaan__obs1,57.30214571,-3.699157201
+inverness,"Dulnain, Inverlaidnan Bridge",inverness__dulnain-inverlaidnan-bridge__obs1,57.26705143,-3.883273172
+inverness,"Enrick, Mill of Tore",inverness__enrick-mill-of-tore__obs1,57.33389585,-4.575831167
+inverness,"Enrick, White Bridge",inverness__enrick-white-bridge__obs1,57.33362742,-4.673089381
+inverness,"Farrar, Struy",inverness__farrar-struy__obs1,57.42569662,-4.682400374
+inverness,"Feshie, Feshie Bridge",inverness__feshie-feshie-bridge__obs1,57.11889938,-3.901082854
+inverness,"Findhorn, Shenachie",inverness__findhorn-shenachie__obs1,57.37739614,-3.954996467
+inverness,"Garry (Ness), Craigard",inverness__garry-ness-craigard__obs1,57.06557358,-4.822135914
+inverness,"Glass, Kerrow Wood",inverness__glass-kerrow-wood__obs1,57.34937628,-4.736427892
+inverness,"Glass, Fasnakyle",inverness__glass-fasnakyle__obs1,57.31811088,-4.799267396
+inverness,"Loch Flemington, Loch Flemington",inverness__loch-flemington-loch-flemington__obs1,57.54236344,-3.993033026
+inverness,"Loch Ness, Foyers",inverness__loch-ness-foyers__obs1,57.26265002,-4.483020773
+inverness,"Loch Oich, Bridge of Oich",inverness__loch-oich-bridge-of-oich__obs1,57.09229844,-4.74425988
+inverness,"Loch Vaa, Loch Vaa",inverness__loch-vaa-loch-vaa__obs1,57.23627646,-3.803196316
+inverness,"Lochindorb, Lochindorb Level",inverness__lochindorb-lochindorb-level__obs1,57.39798722,-3.714675739
+inverness,"Lochy (Lochaber), Gairlochy",inverness__lochy-lochaber__obs1,56.91442441,-4.991445495
+inverness,"Lochy (Lochaber), Camisky",inverness__lochy-lochaber-camisky__obs1,56.87846936,-5.046521526
+inverness,"Mill Burn, Diriebught House",inverness__mill-burn-diriebught-house__obs1,57.47804173,-4.207153032
+inverness,"Moriston, Levishie",inverness__moriston-levishie__obs1,57.22003826,-4.647834071
+inverness,"Nairn, Balnafoich",inverness__nairn-balnafoich__obs1,57.38787077,-4.188250573
+inverness,"Ness, Ness-side",inverness__ness-ness-side__obs1,57.4545366,-4.259846808
+inverness,"Nevis, Claggan",inverness__nevis-claggan__obs1,56.82151065,-5.088839432
+inverness,"Shiel, Shielfoot",inverness__shiel-shielfoot__obs1,56.76454538,-5.820892452
+inverness,"Spey, Grantown",inverness__spey-grantown__obs1,57.32177064,-3.606725707
+inverness,"Spey, Boat of Garten",inverness__spey-boat-of-garten__obs1,57.25078305,-3.746867237
+inverness,"Spey, Kinrara",inverness__spey-kinrara__obs1,57.15134199,-3.85017621
+inverness,"Spey, Kincraig",inverness__spey-kincraig__obs1,57.12680642,-3.92521234
+inverness,"Spey, Invertruim",inverness__spey-invertruim__obs1,57.04053804,-4.164639706
+inverness,"Spey, Spey Dam",inverness__spey-spey-dam__obs1,57.01121062,-4.336367491
+inverness,"Strontian, Ariundle",inverness__strontian-ariundle__obs1,56.70722202,-5.556782552
+inverness,"Tarff, Ardachy Bridge",inverness__tarff-ardachy-bridge__obs1,57.12952381,-4.678200965
+inverness,"Tromie, Tromie Bridge",inverness__tromie-tromie-bridge__obs1,57.0717185,-3.998638147
+kincardineshire,"Bervie, Inverbervie",kincardineshire__bervie-inverbervie__obs1,56.85144056,-2.286119413
+kincardineshire,"Carron, Carron upstream (Stonehaven)",kincardineshire__carron-carron-upstream-stonehaven__obs1,56.96155865,-2.219756428
+kincardineshire,"Carron, Cleuchhead",kincardineshire__carron-cleuchhead__obs1,56.94774412,-2.388756894
+kincardineshire,"Carron Water, Carron (Stonehaven)",kincardineshire__carron-water-carron-stonehaven__obs1,56.96221164,-2.216208291
+kincardineshire,"Carron Water, Kirktown of Fetteresso",kincardineshire__carron-water-kirktown-of-fetteresso__obs1,56.96107386,-2.24381097
+kincardineshire,"Feugh, Heugh Head",kincardineshire__feugh-heugh-head__obs1,57.02524569,-2.517160888
+kincardineshire,"Luther Water, Luther Bridge",kincardineshire__luther-water-luther-bridge__obs1,56.7936908,-2.55997015
+kincardineshire,"North Esk (Tayside), Inveriscandye",kincardineshire__north-esk-tayside-inveriscandye__obs1,56.79987798,-2.626620926
+kincardineshire,"North Esk (Tayside), Logie Mill",kincardineshire__north-esk-tayside-logie-mill__obs1,56.7668773,-2.493365398
+lanarkshire,"Avon Water, Fairholm",lanarkshire__avon-water-fairholm__obs1,55.74419908,-3.986819701
+lanarkshire,"Avon Water, Avonbank",lanarkshire__avon-water-avonbank__obs1,55.66347112,-4.051617294
+lanarkshire,"Cander Water, Candermill",lanarkshire__cander-water-candermill__obs1,55.70088757,-3.966908369
+lanarkshire,"Clyde, Daldowie",lanarkshire__clyde-daldowie__obs1,55.82998694,-4.121948322
+lanarkshire,"Clyde, Blairston",lanarkshire__clyde-blairston__obs1,55.79734306,-4.068305537
+lanarkshire,"Clyde, Hazelbank",lanarkshire__clyde-hazelbank__obs1,55.68735585,-3.854153414
+lanarkshire,"Clyde, Kirkfieldbank",lanarkshire__clyde-kirkfieldbank__obs1,55.67631471,-3.803247871
+lanarkshire,"Clyde, Sills of Clyde",lanarkshire__clyde-sills-of-clyde__obs1,55.66312399,-3.70505823
+lanarkshire,"Clyde, Tulliford Mill",lanarkshire__clyde-tulliford-mill__obs1,55.64374172,-3.75902119
+lanarkshire,"Clyde, Abington",lanarkshire__clyde-abington__obs1,55.48691533,-3.69056827
+lanarkshire,"Douglas Water, Happendon",lanarkshire__douglas-water-happendon__obs1,55.5801981,-3.816796943
+lanarkshire,"Duneaton Water, Maidencots",lanarkshire__duneaton-water-maidencots__obs1,55.51579546,-3.695370189
+lanarkshire,"Kittoch Water, Waterside",lanarkshire__kittoch-water-waterside__obs1,55.77868352,-4.240656047
+lanarkshire,"Luggie Water, Condorrat",lanarkshire__luggie-water-condorrat__obs1,55.92951508,-4.019603678
+lanarkshire,"Nethan, Kirkmuirhill",lanarkshire__nethan-kirkmuirhill__obs1,55.66506695,-3.893674093
+lanarkshire,"North Calder Water, Calderpark",lanarkshire__north-calder-water-calderpark__obs1,55.83754619,-4.10777909
+lanarkshire,"Rotten Calder Water, Redlees",lanarkshire__rotten-calder-water-redlees__obs1,55.81909284,-4.108983791
+midlothian,"North Esk (Lothian), Dalmore",midlothian__north-esk-lothian-dalmore__obs1,55.84190258,-3.195905294
+midlothian,"South Esk (Lothian), Cowbridge",midlothian__south-esk-lothian-cowbridge__obs1,55.89709776,-3.05890347
+moray,"Black Burn, Pluscarden Abbey",moray__black-burn-pluscarden-abbey__obs1,57.59946107,-3.433170424
+moray,"Divie, Dunphail",moray__divie-dunphail__obs1,57.51151031,-3.661788536
+moray,"Findhorn, Forres",moray__findhorn-forres__obs1,57.60477145,-3.644084919
+moray,"Lossie, Sheriffmills",moray__lossie-sheriffmills__obs1,57.64636934,-3.351933142
+moray,"Lossie, Ballachraggan",moray__lossie-ballachraggan__obs1,57.52824441,-3.451567365
+moray,"Mosset Burn, Wardend Bridge",moray__mosset-burn-wardend-bridge__obs1,57.58239454,-3.608335401
+moray,"Muckle Burn, Brodie",moray__muckle-burn-brodie__obs1,57.59244808,-3.708878989
+nairn,"Findhorn, Logie Bridge",nairn__findhorn-logie-bridge__obs1,57.49449251,-3.736619229
+nairn,"Nairn, Firhall",nairn__nairn-firhall__obs1,57.57160708,-3.869783835
+orkney,"Durkadale Burn, Durkadale",orkney__durkadale-burn-durkadale__obs1,59.10852817,-3.232172832
+perth-and-kinross,"Allt Srath a Ghlinne, Auchinner",perth-and-kinross__allt-srath-a-ghlinne-auchinner__obs1,56.31678388,-4.112254665
+perth-and-kinross,"Almond (Tayside), Auchnafree",perth-and-kinross__almond-tayside-auchnafree__obs1,56.47302976,-3.904678161
+perth-and-kinross,"Almond (Tayside), Newton Bridge",perth-and-kinross__almond-tayside-newton-bridge__obs1,56.4611514,-3.799234379
+perth-and-kinross,"Almond (Tayside), Almondbank",perth-and-kinross__almond-tayside-almondbank__obs1,56.41527516,-3.51359839
+perth-and-kinross,"Ardle, Kindrogan",perth-and-kinross__ardle-kindrogan__obs1,56.74926972,-3.544931301
+perth-and-kinross,"Braan, Hermitage",perth-and-kinross__braan-hermitage__obs1,56.5609809,-3.607201681
+perth-and-kinross,"Dean Water, Dean Bridge",perth-and-kinross__dean-water-dean-bridge__obs1,56.5988796,-3.153071161
+perth-and-kinross,"Devon, Castlehill Reservoir",perth-and-kinross__devon-castlehill-reservoir__obs1,56.2092222,-3.60889654
+perth-and-kinross,"Earn, Dalginross",perth-and-kinross__earn-dalginross__obs1,56.37511953,-3.978605821
+perth-and-kinross,"Earn, Aberuchill",perth-and-kinross__earn-aberuchill__obs1,56.37078118,-4.019153819
+perth-and-kinross,"Earn, Crieff",perth-and-kinross__earn-crieff__obs1,56.36081905,-3.847275886
+perth-and-kinross,"Earn, Bridge of Earn",perth-and-kinross__earn-bridge-of-earn__obs1,56.3497307,-3.402582026
+perth-and-kinross,"Earn, Forteviot Bridge",perth-and-kinross__earn-forteviot-bridge__obs1,56.34759942,-3.548359476
+perth-and-kinross,"Earn, Kinkell Bridge",perth-and-kinross__earn-kinkell-bridge__obs1,56.33018709,-3.726992915
+perth-and-kinross,"Ericht, Craighall (Perth)",perth-and-kinross__ericht-craighall-perth__obs1,56.60905796,-3.347175751
+perth-and-kinross,"Garry (Tayside), Dalnamein",perth-and-kinross__garry-tayside-dalnamein__obs1,56.79925858,-4.053453634
+perth-and-kinross,"Garry (Tayside), Killiecrankie",perth-and-kinross__garry-tayside-killiecrankie__obs1,56.75025399,-3.79910265
+perth-and-kinross,"Garry Burn, Loakmill No 2",perth-and-kinross__garry-burn-loakmill-no-2__obs1,56.49180756,-3.508004624
+perth-and-kinross,"Greens Burn, Damleys Cottage",perth-and-kinross__greens-burn-damleys-cottage__obs1,56.22128534,-3.361631179
+perth-and-kinross,"Isla (Tayside), Balbrogie",perth-and-kinross__isla-tayside-balbrogie__obs1,56.57225831,-3.240802881
+perth-and-kinross,"Isla (Tayside), Links Farm",perth-and-kinross__links-farm-perth-and-kinross__obs1,56.53282434,-3.339459645
+perth-and-kinross,"Leven (Fife), Loch Leven Sluices",perth-and-kinross__leven-fife-loch-leven-sluices__obs1,56.17937821,-3.335224928
+perth-and-kinross,"Lunan Burn, Mill Bank",perth-and-kinross__lunan-burn-mill-bank__obs1,56.54503404,-3.333677733
+perth-and-kinross,"Lyon, Comrie Bridge",perth-and-kinross__lyon-comrie-bridge__obs1,56.61422921,-3.980864711
+perth-and-kinross,"Lyon, Camusvrachan",perth-and-kinross__lyon-camusvrachan__obs1,56.60039168,-4.250199477
+perth-and-kinross,"Lyon, Moar",perth-and-kinross__lyon-moar__obs1,56.57276553,-4.388958153
+perth-and-kinross,"North Queich, Lathro",perth-and-kinross__north-queich-lathro__obs1,56.2213192,-3.42872292
+perth-and-kinross,"Ordie Burn, Luncarty",perth-and-kinross__ordie-burn-luncarty__obs1,56.46394135,-3.477636063
+perth-and-kinross,"Ruchill Water, Cultybraggan",perth-and-kinross__ruchill-water-cultybraggan__obs1,56.35972783,-4.001442447
+perth-and-kinross,"Ruthven Water, Aberuthven",perth-and-kinross__ruthven-water-aberuthven__obs1,56.31968188,-3.658685969
+perth-and-kinross,"South Queich, Kinross",perth-and-kinross__south-queich__obs1,56.19853589,-3.422943515
+perth-and-kinross,"Tay, Pitnacree",perth-and-kinross__tay-pitnacree__obs1,56.66006824,-3.756901303
+perth-and-kinross,"Tay, Balmacneil",perth-and-kinross__tay-balmacneil__obs1,56.63825013,-3.664198017
+perth-and-kinross,"Tay, Kenmore",perth-and-kinross__tay-kenmore__obs1,56.59638815,-3.985061725
+perth-and-kinross,"Tay, Caputh",perth-and-kinross__tay-caputh__obs1,56.53919737,-3.492942476
+perth-and-kinross,"Tay, Ballathie",perth-and-kinross__tay-ballathie__obs1,56.5144141,-3.386963945
+perth-and-kinross,"Tay, Perth",perth-and-kinross__tay-perth__obs1,56.41191473,-3.434206313
+perth-and-kinross,"Tilt, Marble Lodge",perth-and-kinross__tilt-marble-lodge__obs1,56.82242289,-3.816539353
+perth-and-kinross,"Tummel, Pitlochry",perth-and-kinross__tummel-pitlochry__obs1,56.69656771,-3.720794881
+renfrewshire,"Auldhouse Burn, Spiers Bridge",renfrewshire__auldhouse-burn-spiers-bridge__obs1,55.80186787,-4.32218584
+renfrewshire,"Black Cart Water, Milliken Park",renfrewshire__black-cart-water-milliken-park__obs1,55.82523457,-4.537788828
+renfrewshire,"Earn Water, Letham",renfrewshire__earn-water-letham__obs1,55.76643914,-4.284272139
+renfrewshire,"Gryfe, Craigend",renfrewshire__gryfe-craigend__obs1,55.86450249,-4.534803989
+renfrewshire,"White Cart Water, Hawkhead",renfrewshire__white-cart-water-hawkhead__obs1,55.83606531,-4.398537371
+ross-and-cromarty,Ullapool,ross-and-cromarty__ullapool-ross-and-cromarty__obs1,57.89527,-5.15789
+ross-and-cromarty,Ullapool,ross-and-cromarty__ullapool-ross-and-cromarty-tidal-level__obs2,57.89527,-5.15789
+ross-and-cromarty,"Abhainn Bruachaig, Kinlochewe Lodge",ross-and-cromarty__abhainn-bruachaig-kinlochewe-lodge__obs1,57.60438272,-5.291673059
+ross-and-cromarty,"Allt a Ghlas-chamaich, Allt a' Ghlas-charnaich",ross-and-cromarty__allt-a-ghlas-chamaich-allt-a-ghlas-charnaich__obs1,57.70934072,-4.836082499
+ross-and-cromarty,"Alness, Alness",ross-and-cromarty__alness-alness__obs1,57.69601068,-4.258760757
+ross-and-cromarty,"Blackwater, Garve",ross-and-cromarty__blackwater-garve__obs1,57.61669586,-4.688028816
+ross-and-cromarty,"Bran, Dosmucheran",ross-and-cromarty__bran-dosmucheran__obs1,57.59587318,-5.005770119
+ross-and-cromarty,"Broom, Inverbroom",ross-and-cromarty__broom-inverbroom__obs1,57.81047099,-5.058237756
+ross-and-cromarty,"Canaird, Langwell Lodge",ross-and-cromarty__canaird-langwell-lodge__obs1,57.9748238,-5.100589967
+ross-and-cromarty,"Carron (Wester Ross), New Kelso",ross-and-cromarty__carron-wester-ross-new-kelso__obs1,57.42953514,-5.429999168
+ross-and-cromarty,"Conon, Conon Bridge",ross-and-cromarty__conon-conon-bridge__obs1,57.5694305,-4.440534753
+ross-and-cromarty,"Conon, Moy Bridge",ross-and-cromarty__conon-moy-bridge__obs1,57.55657789,-4.539965573
+ross-and-cromarty,"Conon, Arcan Spillway",ross-and-cromarty__conon-arcan-spillway__obs1,57.55332889,-4.550906092
+ross-and-cromarty,"Ewe, Poolewe",ross-and-cromarty__ewe-poolewe__obs1,57.76144201,-5.599076889
+ross-and-cromarty,"Kerry, Faich Bhiorach",ross-and-cromarty__kerry-faich-bhiorach__obs1,57.69020841,-5.660695458
+ross-and-cromarty,"Ling, Killilan",ross-and-cromarty__ling-killilan__obs1,57.31881832,-5.424835603
+ross-and-cromarty,"Loch A Bhraoin, Loch A Bhraoin",ross-and-cromarty__loch-a-bhraoin-loch-a-bhraoin__obs1,57.72829261,-5.098319842
+ross-and-cromarty,"Loch Maree, Loch Maree",ross-and-cromarty__loch-maree-loch-maree__obs1,57.6695583,-5.447154185
+ross-and-cromarty,"Meig, Glenmeanie",ross-and-cromarty__meig-glenmeanie__obs1,57.53261438,-4.863772899
+ross-and-cromarty,"Newhall Burn, Newhall Bridge",ross-and-cromarty__newhall-burn-newhall-bridge__obs1,57.65781737,-4.17662641
+ross-and-cromarty,"Peffery, Strathpeffer",ross-and-cromarty__peffery-strathpeffer__obs1,57.59297854,-4.523041423
+ross-and-cromarty,"Snizort, Skeabost",ross-and-cromarty__snizort-skeabost__obs1,57.45437017,-6.311235369
+"roxburgh,-ettrick-and-lauderdale","Ale Water, Ancrum","roxburgh,-ettrick-and-lauderdale__ale-water-ancrum__obs1",55.51244139,-2.580776051
+"roxburgh,-ettrick-and-lauderdale","Ettrick Water, Lindean","roxburgh,-ettrick-and-lauderdale__ettrick-water-lindean__obs1",55.57486097,-2.816174621
+"roxburgh,-ettrick-and-lauderdale","Ettrick Water, Brockhoperig","roxburgh,-ettrick-and-lauderdale__ettrick-water-brockhoperig__obs1",55.4061286,-3.211513384
+"roxburgh,-ettrick-and-lauderdale","Gala Water, Fountainhall","roxburgh,-ettrick-and-lauderdale__gala-water-fountainhall__obs1",55.73663595,-2.905930746
+"roxburgh,-ettrick-and-lauderdale","Gala Water, Galashiels","roxburgh,-ettrick-and-lauderdale__gala-water-galashiels__obs1",55.62706185,-2.827709454
+"roxburgh,-ettrick-and-lauderdale","Hermitage Water, Braidlie","roxburgh,-ettrick-and-lauderdale__hermitage-water-braidlie__obs1",55.26142915,-2.824951121
+"roxburgh,-ettrick-and-lauderdale","Jed Water, Jedburgh","roxburgh,-ettrick-and-lauderdale__jed-water-jedburgh__obs1",55.48529122,-2.54668704
+"roxburgh,-ettrick-and-lauderdale","Jed Water, Chesters","roxburgh,-ettrick-and-lauderdale__jed-water-chesters__obs1",55.37862961,-2.589607681
+"roxburgh,-ettrick-and-lauderdale","Leader Water, Lauder (New Mills)","roxburgh,-ettrick-and-lauderdale__leader-water-lauder-new-mills__obs1",55.73932168,-2.755976423
+"roxburgh,-ettrick-and-lauderdale","Leader Water, Earlston","roxburgh,-ettrick-and-lauderdale__leader-water-earlston__obs1",55.64075254,-2.691879301
+"roxburgh,-ettrick-and-lauderdale","Liddel Water, Newcastleton","roxburgh,-ettrick-and-lauderdale__liddel-water-newcastleton__obs1",55.17647238,-2.81316152
+"roxburgh,-ettrick-and-lauderdale","River Tweed, Sprouston","roxburgh,-ettrick-and-lauderdale__tweed-scottish-borders-sprouston__obs1",55.61121,-2.395446
+"roxburgh,-ettrick-and-lauderdale","Slitrig, Stobs Castle","roxburgh,-ettrick-and-lauderdale__slitrig-stobs-castle__obs1",55.38179195,-2.780516606
+"roxburgh,-ettrick-and-lauderdale","Teviot, Ormiston Mill","roxburgh,-ettrick-and-lauderdale__teviot-ormiston-mill__obs1",55.54491924,-2.473314492
+"roxburgh,-ettrick-and-lauderdale","Teviot, Hawick","roxburgh,-ettrick-and-lauderdale__teviot-hawick__obs1",55.43447121,-2.756965079
+"roxburgh,-ettrick-and-lauderdale","Teviot, Teviothead","roxburgh,-ettrick-and-lauderdale__teviot-teviothead__obs1",55.34222734,-2.936481216
+"roxburgh,-ettrick-and-lauderdale","Tima Water, Deephope","roxburgh,-ettrick-and-lauderdale__tima-water-deephope__obs1",55.41241422,-3.141967218
+"roxburgh,-ettrick-and-lauderdale","Tweed, Sprouston","roxburgh,-ettrick-and-lauderdale__tweed-sprouston__obs1",55.61103047,-2.395690658
+"roxburgh,-ettrick-and-lauderdale","Tweed, Boleside","roxburgh,-ettrick-and-lauderdale__tweed-boleside__obs1",55.59164323,-2.798878774
+"roxburgh,-ettrick-and-lauderdale","Yarrow Water, Philiphaugh","roxburgh,-ettrick-and-lauderdale__yarrow-water-philiphaugh__obs1",55.53980549,-2.890068293
+"roxburgh,-ettrick-and-lauderdale","Yarrow Water, Gordon Arms","roxburgh,-ettrick-and-lauderdale__yarrow-water-gordon-arms__obs1",55.51137227,-3.096406906
+"roxburgh,-ettrick-and-lauderdale","Yarrow Water, Craig Douglas","roxburgh,-ettrick-and-lauderdale__yarrow-water-craig-douglas__obs1",55.5086,-3.1265
+shetland,Lerwick,shetland__lerwick-shetland__obs1,60.15402,-1.1403
+shetland,Lerwick,shetland__lerwick-shetland-tidal-level__obs2,60.15402,-1.1403
+shetland,"Weisdale Burn, Weisdale Mill",shetland__weisdale-burn-weisdale-mill__obs1,60.2593269,-1.288604022
+stirling-and-falkirk,"Achray Water, Loch Katrine",stirling-and-falkirk__achray-water-loch-katrine__obs1,56.22701614,-4.43624573
+stirling-and-falkirk,"Allan Water, Kinbuck",stirling-and-falkirk__allan-water-kinbuck__obs1,56.2255551,-3.949530685
+stirling-and-falkirk,"Allan Water, Bridge of Allan",stirling-and-falkirk__allan-water-bridge-of-allan__obs1,56.15901974,-3.956367475
+stirling-and-falkirk,"Avon (Forth Valley), Polmonthill",stirling-and-falkirk__avon-forth-valley-polmonthill__obs1,55.99837265,-3.681998769
+stirling-and-falkirk,"Avondhu Burn, Milton",stirling-and-falkirk__avondhu-burn-milton__obs1,56.18112306,-4.412580797
+stirling-and-falkirk,"Bannock Burn, Bannockburn",stirling-and-falkirk__bannock-burn-bannockburn__obs1,56.09528478,-3.911816854
+stirling-and-falkirk,"Blane Water, Quinloch Bridge",stirling-and-falkirk__blane-water-quinloch-bridge__obs1,56.00926669,-4.375847831
+stirling-and-falkirk,"Bonny Water, Bonnybridge",stirling-and-falkirk__bonny-water-bonnybridge__obs1,56.00182143,-3.886990553
+stirling-and-falkirk,"Carron (Forth Valley), Headswood",stirling-and-falkirk__carron-forth-valley-headswood__obs1,56.01500087,-3.875456793
+stirling-and-falkirk,"Dochart, Killin",stirling-and-falkirk__dochart-killin__obs1,56.45816211,-4.331876561
+stirling-and-falkirk,"Duchray Water, Duchray Water",stirling-and-falkirk__duchray-water-duchray-water__obs1,56.19275854,-4.564061145
+stirling-and-falkirk,"Duchray Water, Renagour Bridge",stirling-and-falkirk__duchray-water__obs1,56.17693404,-4.418601789
+stirling-and-falkirk,"Eas Gobhain, Loch Venachar",stirling-and-falkirk__eas-gobhain-loch-venachar__obs1,56.23425763,-4.25686637
+stirling-and-falkirk,"Endrick Water, Graystone Bridge",stirling-and-falkirk__endrick-water-graystone-bridge__obs1,56.0675405,-4.282616591
+stirling-and-falkirk,"Endrick Water, Gaidrew",stirling-and-falkirk__endrick-water-gaidrew__obs1,56.04809931,-4.434505213
+stirling-and-falkirk,"Falloch, Glenfalloch",stirling-and-falkirk__falloch-glenfalloch__obs1,56.33773623,-4.717635246
+stirling-and-falkirk,"Forth, Craigforth",stirling-and-falkirk__forth-craigforth__obs1,56.1360998,-3.970218251
+stirling-and-falkirk,"Forth, Gargunnock",stirling-and-falkirk__forth-gargunnock__obs1,56.13266077,-4.070571402
+stirling-and-falkirk,"Leny, Anie",stirling-and-falkirk__leny-anie__obs1,56.25788155,-4.285414699
+stirling-and-falkirk,"Loch Ard, Loch Ard",stirling-and-falkirk__forth-loch-ard__obs1,56.18379617,-4.422949664
+stirling-and-falkirk,"Loch Ard Burn, Duchray",stirling-and-falkirk__loch-ard-burn-10-duchray__obs1,56.15649685,-4.468109175
+stirling-and-falkirk,"Monachyle, Upper Monachyle",stirling-and-falkirk__monachyle-upper-monachlye__obs1,56.39271229,-4.463706898
+stirling-and-falkirk,"Teith, Callander",stirling-and-falkirk__teith-callander__obs1,56.2422863,-4.214924958
+stirling-and-falkirk,"Teith, Bridge of Teith",stirling-and-falkirk__teith-bridge-of-teith__obs1,56.18573476,-4.055574525
+sutherland,Kinlochbervie,sutherland__kinlochbervie-sutherland__obs1,58.45673,-5.05018
+sutherland,Kinlochbervie,sutherland__kinlochbervie-sutherland-tidal-level__obs2,58.45673,-5.05018
+sutherland,"Abhainn a Chnocain, Elphin",sutherland__abhainn-a-chnocain-elphin__obs1,58.05185192,-5.03101345
+sutherland,"Borgie, Borgie Bridge",sutherland__borgie-borgie-bridge__obs1,58.49740038,-4.279784356
+sutherland,"Brora, Bruachrobie",sutherland__brora-bruachrobie__obs1,58.0105569,-3.877565412
+sutherland,"Carron (Sutherland), Sgodachail",sutherland__carron-sutherland-sgodachail__obs1,57.89327664,-4.546976399
+sutherland,"Cassley, Rosehall",sutherland__cassley-rosehall__obs1,57.98210062,-4.586149187
+sutherland,"Dionard, Dionard",sutherland__dionard-dionard__obs1,58.49807306,-4.821196451
+sutherland,"Halladale, Halladale",sutherland__halladale-halladale__obs1,58.47881083,-3.90301916
+sutherland,"Helmsdale, Kilphedir",sutherland__helmsdale-kilphedir__obs1,58.14138911,-3.702814019
+sutherland,"Inver, Little Assynt",sutherland__inver-little-assynt__obs1,58.17438109,-5.152302768
+sutherland,"Laxford, Laxford Bridge",sutherland__laxford-laxford-bridge__obs1,58.37221983,-4.991457712
+sutherland,"Loch Naver, Loch Naver",sutherland__loch-naver-loch-naver__obs1,58.28571328,-4.389718176
+sutherland,"Naver, Apigill",sutherland__naver-apigill__obs1,58.48007214,-4.207749187
+sutherland,"Oykel, Loch Ailsh Level",sutherland__oykel-loch-ailsh-level__obs1,58.04827715,-4.855312073
+sutherland,"Oykel, Inveroykel Bailey Bridge",sutherland__oykel-inveroykel-bailey-bridge__obs1,57.97362007,-4.604090887
+sutherland,"Oykel, Easter Turnaig",sutherland__oykel-easter-turnaig__obs1,57.96185041,-4.700859639
+sutherland,"Shin, Inveran",sutherland__shin-inveran__obs1,57.94318903,-4.410383325
+sutherland,"Strathmore, Allnabad",sutherland__strathmore-allnabad__obs1,58.34717676,-4.644621014
+sutherland,"Strathy, Strathy Bridge",sutherland__strathy-strathy-bridge__obs1,58.55872143,-4.002604762
+the-stewartry-of-kirkcudbright,"Dee (Solway), Glenlochar",the-stewartry-of-kirkcudbright__dee-solway-glenlochar__obs1,54.95554151,-3.979143444
+the-stewartry-of-kirkcudbright,"Urr Water, Dalbeattie",the-stewartry-of-kirkcudbright__urr-water-dalbeattie__obs1,54.92987759,-3.840969588
+the-stewartry-of-kirkcudbright,"Water of Fleet, Rusko",the-stewartry-of-kirkcudbright__water-of-fleet-rusko__obs1,54.90579321,-4.197617244
+tweeddale,"Eddleston Water, Shiplaw",tweeddale__eddleston-water-shiplaw__obs1,55.72796917,-3.207291434
+tweeddale,"Eddleston Water, March Street",tweeddale__eddleston-water-march-street__obs1,55.6553291,-3.19057537
+tweeddale,"Leithen Water, Innerleithen",tweeddale__leithen-water-innerleithen__obs1,55.61992749,-3.061056074
+tweeddale,"Lyne Water, Lyne Station",tweeddale__lyne-water-lyne-station__obs1,55.64733183,-3.25808918
+tweeddale,"Manor Water, Cademuir",tweeddale__manor-water-cademuir__obs1,55.61926614,-3.244232636
+tweeddale,"Tweed, Peebles",tweeddale__tweed-peebles__obs1,55.64758358,-3.180313467
+tweeddale,"Tweed, Lyne Ford",tweeddale__tweed-lyne-ford__obs1,55.64466586,-3.263056512
+tweeddale,"Tweed, Kingledores",tweeddale__tweed-kingledores__obs1,55.54240926,-3.413947163
+tweeddale,"Tweed, Glenbreck",tweeddale__tweed-glenbreck__obs1,55.48202196,-3.477754728
+west-lothian,"Almond (Lothian), Almondell",west-lothian__almond-lothian-almondell__obs1,55.90181846,-3.463017734
+west-lothian,"Almond (Lothian), Whitburn",west-lothian__almond-lothian-whitburn__obs1,55.87157334,-3.682936938
+western-isles,"Abhainn Roag, Mill Croft",western-isles__abhainn-roag-mill-croft__obs1,57.2886568,-7.368331541
+western-isles,"Creed, Creed Bridge",western-isles__creed-creed-bridge__obs1,58.20454028,-6.424227928
+western-isles,"Laxdale, Laxdale",western-isles__laxdale-laxdale__obs1,57.86865846,-6.893581696
+western-isles,"Tormasad, Loch Tormasad",western-isles__tormasad-loch-tormasad__obs1,57.56195723,-7.316740973
+wigtown,Portpatrick,wigtown__portpatrick-wigtown__obs1,54.84254,-5.12004
+wigtown,Portpatrick,wigtown__portpatrick-wigtown-tidal-level__obs2,54.84254,-5.12004
+wigtown,Bangor,wigtown__bangor-wigtown__obs1,54.66518,-5.67045
+wigtown,Bangor,wigtown__bangor-wigtown-tidal-level__obs2,54.66518,-5.67045
+wigtown,Port Erin,wigtown__port-erin-wigtown-tidal-level__obs1,54.08538,-4.76807
+wigtown,Port Erin,wigtown__port-erin-wigtown__obs2,54.08538,-4.76807
+wigtown,"Blackwater of Dee, Loch Dee Outlet",wigtown__blackwater-of-dee-loch-dee-outlet__obs1,55.08809918,-4.386053697
+wigtown,"Bladnoch, Low Malzie",wigtown__bladnoch-low-malzie__obs1,54.85901864,-4.522077924
+wigtown,"Cree, Wheeb Bridge",wigtown__cree-wheeb-bridge__obs1,55.09004091,-4.661771619
+wigtown,"Cree, Newton Stewart",wigtown__cree-newton-stewart__obs1,54.95726338,-4.480525846
+wigtown,"Dargall Lane, Dargall Lane",wigtown__dargall-lane-dargall-lane__obs1,55.0785507,-4.428445527
+wigtown,"Piltanton Burn, Barsolus",wigtown__piltanton-burn-barsolus__obs1,54.8658531,-4.951330607
+wigtown,"Water of Luce, Airyhemming",wigtown__water-of-luce-airyhemming__obs1,54.90049986,-4.839842855
+wigtown,"Water of Minnoch, Minnoch Bridge",wigtown__water-of-minnoch-minnoch-bridge__obs1,55.03887143,-4.563503023
+wigtown,"White Laggan, White Laggan",wigtown__white-laggan-white-laggan__obs1,55.07382387,-4.401198238
